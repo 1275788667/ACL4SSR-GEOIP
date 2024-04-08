@@ -1,0 +1,38 @@
+# UA匹配
+USER-AGENT,*free-sss*
+# 域名关键字匹配
+DOMAIN-KEYWORD,free-sss
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,onekey
+DOMAIN-KEYWORD,nnr
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,admob
+DOMAIN-KEYWORD,jump98
+DOMAIN-KEYWORD,doubleclick
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,bnbstatic
+DOMAIN-KEYWORD,saasexch.com
+DOMAIN-KEYWORD,flexclip
+DOMAIN-KEYWORD,mozilla
+DOMAIN-KEYWORD,mxplay
+DOMAIN-KEYWORD,androidcombo
+DOMAIN-KEYWORD,apkcombo
+DOMAIN-KEYWORD,jetbrains
+DOMAIN-KEYWORD,f-droid
+DOMAIN-KEYWORD,onlineconvertfree
+# 域名匹配
+DOMAIN,free-sss.com
+DOMAIN,jump98.xyz
+# 域名后缀匹配
+DOMAIN-SUFFIX,free-sss.com
+DOMAIN-SUFFIX,proxmox.com
+DOMAIN-SUFFIX,jump98.xyz
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,ciciai.com
+# 目标端口匹配
+# DST-PORT,9993
+# 源端口匹配
+# SRC-PORT,9993

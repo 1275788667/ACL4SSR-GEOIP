@@ -1,0 +1,42 @@
+# UA匹配
+USER-AGENT,*softether*
+# 域名关键字匹配
+DOMAIN-KEYWORD,softether
+DOMAIN-KEYWORD,oray
+DOMAIN-KEYWORD,xiaohongshu
+DOMSIN-KEYWORD,sunlogin
+DOMAIN-KEYWORD,uxcom.jp
+DOMAIN-KEYWORD,ewsoft.cn
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,126
+DOMAIN-KEYWORD,127
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,qq
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,chuangkit
+# 域名匹配
+DOMAIN,softether-network.net
+DOMAIN,softether.co.jp
+DOMAIN,flets-east.jp
+DOMAIN,flets-west.jp
+DOMAIN,uxcom.jp
+DOMAIN,cvc.cx
+DOMAIN,baidu.com
+DOMAIN,ewsoft.cn
+DOMAIN,4tnv.com
+# 域名后缀匹配
+DOMAIN-SUFFIX,softether-network.net
+DOMAIN-SUFFIX,softether.co.jp
+DOMAIN-SUFFIX,flets-east.jp
+DOMAIN-SUFFIX,flets-west.jp
+DOMAIN-SUFFIX,uxcom.jp
+DOMAIN-SUFFIX,cvc.cx
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,ewsoft.cn
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,4tnv.com
+# 目标端口匹配
+DST-PORT,9993
+# 源端口匹配
+SRC-PORT,9993
